@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj": {}
+    "/Users/aidanthompson/Documents/GitHub/Aidans_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj": {}
   },
   "projects": {
-    "/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj": {
+    "/Users/aidanthompson/Documents/GitHub/Aidans_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj",
+        "projectUniqueName": "/Users/aidanthompson/Documents/GitHub/Aidans_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj",
         "projectName": "Library.eCommerce",
-        "projectPath": "/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj",
+        "projectPath": "/Users/aidanthompson/Documents/GitHub/Aidans_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj",
         "packagesPath": "/Users/aidanthompson/.nuget/packages/",
-        "outputPath": "/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/obj/",
+        "outputPath": "/Users/aidanthompson/Documents/GitHub/Aidans_Store/Maui.eCommerce/Library.eCommerce/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aidanthompson/.nuget/NuGet/NuGet.Config"

@@ -12,7 +12,7 @@
       <CodesignDisableTimestamp>true</CodesignDisableTimestamp>
       <CodesignKeychain></CodesignKeychain>
       <CodesignUseHardenedRuntime></CodesignUseHardenedRuntime>
-      <SourceProjectPath>/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Maui.eCommerce</SourceProjectPath>
+      <SourceProjectPath>/Users/aidanthompson/Documents/GitHub/Aidans_Store/Maui.eCommerce/Maui.eCommerce</SourceProjectPath>
     </_CodesignBundle>
   </ItemGroup>
 </Project>

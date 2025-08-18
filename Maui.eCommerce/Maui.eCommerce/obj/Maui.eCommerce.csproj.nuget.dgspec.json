@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Maui.eCommerce/Maui.eCommerce.csproj": {}
+    "/Users/aidanthompson/Documents/GitHub/Aidans_Store/Maui.eCommerce/Maui.eCommerce/Maui.eCommerce.csproj": {}
   },
   "projects": {
-    "/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj": {
+    "/Users/aidanthompson/Documents/GitHub/Aidans_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj",
+        "projectUniqueName": "/Users/aidanthompson/Documents/GitHub/Aidans_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj",
         "projectName": "Library.eCommerce",
-        "projectPath": "/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj",
+        "projectPath": "/Users/aidanthompson/Documents/GitHub/Aidans_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj",
         "packagesPath": "/Users/aidanthompson/.nuget/packages/",
-        "outputPath": "/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/obj/",
+        "outputPath": "/Users/aidanthompson/Documents/GitHub/Aidans_Store/Maui.eCommerce/Library.eCommerce/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aidanthompson/.nuget/NuGet/NuGet.Config"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Maui.eCommerce/Maui.eCommerce.csproj": {
+    "/Users/aidanthompson/Documents/GitHub/Aidans_Store/Maui.eCommerce/Maui.eCommerce/Maui.eCommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Maui.eCommerce/Maui.eCommerce.csproj",
+        "projectUniqueName": "/Users/aidanthompson/Documents/GitHub/Aidans_Store/Maui.eCommerce/Maui.eCommerce/Maui.eCommerce.csproj",
         "projectName": "Maui.eCommerce",
-        "projectPath": "/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Maui.eCommerce/Maui.eCommerce.csproj",
+        "projectPath": "/Users/aidanthompson/Documents/GitHub/Aidans_Store/Maui.eCommerce/Maui.eCommerce/Maui.eCommerce.csproj",
         "packagesPath": "/Users/aidanthompson/.nuget/packages/",
-        "outputPath": "/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Maui.eCommerce/obj/",
+        "outputPath": "/Users/aidanthompson/Documents/GitHub/Aidans_Store/Maui.eCommerce/Maui.eCommerce/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
@@ -95,24 +95,24 @@
           "net8.0-android34.0": {
             "targetAlias": "net8.0-android",
             "projectReferences": {
-              "/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj": {
-                "projectPath": "/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj"
+              "/Users/aidanthompson/Documents/GitHub/Aidans_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj": {
+                "projectPath": "/Users/aidanthompson/Documents/GitHub/Aidans_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj"
               }
             }
           },
           "net8.0-ios18.0": {
             "targetAlias": "net8.0-ios",
             "projectReferences": {
-              "/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj": {
-                "projectPath": "/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj"
+              "/Users/aidanthompson/Documents/GitHub/Aidans_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj": {
+                "projectPath": "/Users/aidanthompson/Documents/GitHub/Aidans_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj"
               }
             }
           },
           "net8.0-maccatalyst18.0": {
             "targetAlias": "net8.0-maccatalyst",
             "projectReferences": {
-              "/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj": {
-                "projectPath": "/Users/aidanthompson/Documents/GitHub/Aidan_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj"
+              "/Users/aidanthompson/Documents/GitHub/Aidans_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj": {
+                "projectPath": "/Users/aidanthompson/Documents/GitHub/Aidans_Store/Maui.eCommerce/Library.eCommerce/Library.eCommerce.csproj"
               }
             }
           }
