@@ -1,0 +1,25 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# VS Code
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+
+# macOS
+.DS_Store
+
+# NuGet
+*.nupkg
+packages/
+
+# MSBuild logs
+*.binlog
+
+# MAUI / mobile build artifacts
+*.ipa
+*.apk
+*.aab
